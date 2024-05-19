@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <a href="#" color = "white">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MAQSOOD+HUSSAIN+WANI;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=QURAT-UL-EINI;&center=true&size=30">
   </a>
 </h1>
 <p>
     <img src="assets/undraw_version_control_re_mg66.svg" align="right" width="250" />
-    I am a passionate Computer Student from Kashmir. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://www.linkedin.com/in/maqsoodhussainwani" target="_blank">contact me</a>.
+     <a href="#" target="_blank">contact me</a>.
 </p>
 <br>
 <br>
@@ -36,35 +36,15 @@
  <!-- ## 🌐 Socials:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maqsoodhussainwani) [![Kaggle](https://img.shields.io/badge/Kaggle-%23FF4500.svg?logo=Kaggle&logoColor=white)](https://reddit.com/user/maqsoodhussainwani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_maqsoodhussain) -->
-
-
-
-## Links for Mca material blow:: 🚀
-- [ALP NOTES](https://maqsoodhussain.github.io/emunotes/)
-- [BCA AND MCA NOTES, PAPERS AND HANDWRITTEN NOTES ](https://maqsoodhussain.github.io/mca). 
- <br>
- 
  ## Clients: 🏅
 - [Pursukoonvilla](https://pursukoonvilla.live)
-
  <br>
  <br>
-
-  ## Mini Projects: 📌🎗️
-- [Rock Paper Scissors Game](https://maqsoodhussain.github.io/Rock-Paper-Scissors/)
-- [Tic Tac Toe](https://maqsoodhussain.github.io/Tic-Tac-Toe/)
-- [Blub On Off](https://maqsoodhussain.github.io/blubonoff/)
-- [Basic Resume](https://maqsoodhussain.github.io/resume/)
-
  <br>
  <br>
 
    ## Projects Done : 🧑‍💻
 - [WEBSITE FOR MCA ](https://maqsoodhussain.github.io/mca)
-- [WEBSITE FOR THE VILLA ](https://pursukoonvilla.live)
-- [CHAT APP](https://github.com/maqsoodhussain/ChatRoom)
-
-
  <br>
  <br>
  <br>
@@ -134,7 +114,7 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=maqsoodhussain&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mirqurat&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -144,21 +124,20 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=maqsoodhussain&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqsoodhussain&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mirqurat&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirqurat&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=maqsoodhussain&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mirqurat&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 <!--
-**maqsoodhussain/maqsoodhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
